@@ -16,26 +16,26 @@ export default function Footer () {
         <footer class="bg-dark text-center text-white">
           <div class="container p-2">
             <section class="mb-2">
-              <a class="btn btn-outline-light btn-floating m-1" href="https://www.facebook.com/Capgemini/" role="button"
+              <a class="btn btn-outline-light btn-floating m-1" href="https://www.facebook.com/Online/" role="button"
               ><FacebookIcon></FacebookIcon></a>
-              <a class="btn btn-outline-light btn-floating m-1" href="https://twitter.com/Capgemini?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" role="button">
+              <a class="btn btn-outline-light btn-floating m-1" href="https://twitter.com/Online?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" role="button">
               <TwitterIcon></TwitterIcon></a>
-              <a class="btn btn-outline-light btn-floating m-1" href="https://www.instagram.com/capgeminiindia/" role="button">
+              <a class="btn btn-outline-light btn-floating m-1" href="https://www.instagram.com/Onlineindia/" role="button">
               <InstagramIcon></InstagramIcon></a>
-              <a class="btn btn-outline-light btn-floating m-1" href="https://www.linkedin.com/company/capgemini" role="button"> 
+              <a class="btn btn-outline-light btn-floating m-1" href="https://www.linkedin.com/company/Online" role="button"> 
               <LinkedInIcon></LinkedInIcon></a>
-              <a class="btn btn-outline-light btn-floating m-1" href="https://github.com/Theepak1/ReactOnlineSportsShopee" role="button">
+              <a class="btn btn-outline-light btn-floating m-1" href="https://github.com/Manoj-Kumar-Thakur/FrontEnd" role="button">
               <GitHubIcon></GitHubIcon></a>
             </section>
             <section class="mb-1">
               <p>
-              These Terms and Conditions constitute a legally binding agreement made between you, whether personally or on behalf of an entity (“you”) and [Capgemini Sports Shopee] (“we,” “us” or “our”), concerning your access to and use of the [capgeminisportsshop.com] website as well as any other media form, media channel, mobile website or mobile application related, linked, or otherwise connected thereto (collectively, the “Site”).
+              These Terms and Conditions constitute a legally binding agreement made between you, whether personally or on behalf of an entity (“you”) and [Online Sports Shopee] (“we,” “us” or “our”), concerning your access to and use of the [Onlinesportsshop.com] website as well as any other media form, media channel, mobile website or mobile application related, linked, or otherwise connected thereto (collectively, the “Site”).
               </p>
             </section>
           </div>
           <div class="text-center p-1">
             © 2021 Copyright: 
-            <a class="text-white" href="/homepage">Capgemini Sports Shopee</a>
+            <a class="text-white" href="/homepage">Online Sports Shopee</a>
           </div>
         </footer>
       </div>

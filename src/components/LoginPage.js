@@ -16,7 +16,7 @@ const LoginPage = () => {
           <div >
             <div>
                 <center>
-                <Box bgcolor="#344fa1" p={1} > <h1 class="ui white inverted header"><h1 class="display-3"> <strong >Welcome To Our Capgemini Sports Shop </strong></h1></h1></Box>
+                <Box bgcolor="#344fa1" p={1} > <h1 class="ui white inverted header"><h1 class="display-3"> <strong >Welcome To Our Online Sports Shop </strong></h1></h1></Box>
                 </center>
             </div>
                 

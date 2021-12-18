@@ -42,7 +42,7 @@ export default function AboutUs() {
                                 component="img"
                                 alt="About US"
                                 height="400"
-                                image="https://blog.exitbee.com/wp-content/uploads/2016/03/about-us.jpg"
+                                image="https://www.impactbnd.com/hubfs/blog-image-uploads/best-about-us-pages.jpg"
                                 title="About Us"
                             />
                         </CardActionArea>
@@ -78,12 +78,12 @@ export default function AboutUs() {
                                     component="img"
                                     alt="Couriers"
                                     height="200"
-                                    image="https://i.pinimg.com/736x/6a/1f/be/6a1fbe5063e56e8c47eaa576d0ddd40e.jpg"
+                                    image="https://pickaface.net/gallery/avatar/72392886_170409_0055_2pg6mpd.png"
                                     title="Couriers"
                                 />
                             </CardActionArea>
                             <CardContent>
-                                Aayushi C
+                                Manoj Kumar Thakur
       <Typography variant="body2" color="textSecondary" component="p">
                                      Computer and Science Engineering , Vel Tech University
           </Typography>
@@ -120,12 +120,12 @@ export default function AboutUs() {
                                     component="img"
                                     alt="Couriers"
                                     height="200"
-                                    image="https://i.pinimg.com/originals/a7/91/5e/a7915ea590195829ed7e09160b4f4e45.jpg"
+                                    image="https://pickaface.net/gallery/avatar/20141125_181228_19_burakaaa.png"
                                     title="Couriers"
                                 />
                             </CardActionArea>
                             <CardContent>
-                                Sai Madhu Bhavana Alla
+                              Pratap
       <Typography variant="body2" color="textSecondary" component="p">
                                      Computer and Science Engineering , Vel Tech University
           </Typography>
